@@ -1,47 +1,46 @@
 {
   "warehouses": [
     {
-      "warehouseId": "1",
-      "warehouseName": "dowChemical",
-      "warehouseDescription": "Key East Coast shippingreceiving location for storing finished product, ready for distribution.",
+      "id": "1",
+      "warehouseName": "Dow Chemical",
+      "warehouseDescription": "East coast major refinery.",
       "warehouseAddress": {
-        "buildingName":"building A", 
-        "streetLine1":"22 Rue du Grenier Saint-Lazare", 
-        "streetLine2":"", 
-        "city":"Montreal", 
-        "stateProvince":"QC",
-        "zipPostalCode":"72281",
-        "country":"Canada"
+        "buildingName": "Building A",
+        "streetLine1": "121 Church Street",
+        "streetLine2": "",
+        "city": "New York",
+        "stateProvince": "NY",
+        "zipPostalCode": "10013",
+        "country": "USA"
       }
     },
     {
-      "warehouseId": "2",
-      "warehouseName": "petronas",
+      "id": "2",
+      "warehouseName": "Petronas",
       "warehouseDescription": "Storage and distribution.",
       "warehouseAddress": {
-        "buildingName":"Main Storage", 
-        "streetLine1":"7778 Smithfield avenue", 
-        "streetLine2":"", 
-        "city":"Kansas", 
-        "stateProvince":"KS",
-        "zipPostalCode":"12212",
-        "country":"USA"
+        "buildingName": "Main one",
+        "streetLine1": "7778 Smithfield avenue",
+        "streetLine2": "",
+        "city": "Kansas City",
+        "stateProvince": "KS",
+        "zipPostalCode": "12212",
+        "country": "USA"
       }
     },
     {
-      "warehouseId": "3",
+      "id": "3",
       "warehouseName": "rioTinto",
       "warehouseDescription": "West Coast refinery shipping finished product.",
       "warehouseAddress": {
-        "buildingName":"Grand Central", 
-        "streetLine1":"35 Ridgeway street", 
-        "streetLine2":"", 
-        "city":"Palo Alto", 
-        "stateProvince":"CA",
-        "zipPostalCode":"72281",
-        "country":"USA"
+        "buildingName": "Grand Central",
+        "streetLine1": "35 Ridgeway street",
+        "streetLine2": "",
+        "city": "Palo Alto",
+        "stateProvince": "CA",
+        "zipPostalCode": "72281",
+        "country": "USA"
       }
     }
   ]
 }
-
